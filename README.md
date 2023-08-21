@@ -1,7 +1,7 @@
 # Databricks SQL API Demo
 
 ## Objetivo
-Solução para realizar execução de consultas no Databricks SQL por meio API REST, conforme representado na imagem abaixo:
+Solução para realizar execução de consultas no Databricks SQL por meio de API REST, conforme representado na imagem abaixo:
 
 ![](imgs/execution.png)
 
